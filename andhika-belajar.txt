@@ -1,0 +1,5 @@
+rencana belajar
+
+-css grid
+bootstrap
+perbanyak latihan
