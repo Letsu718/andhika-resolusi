@@ -2,3 +2,4 @@ Andhika Resolusi
 Lancar Membuat Web Front End : HTMl, CSS, BootStrap, JavaScript, React
 Membuat Back End
 Mempelajari Golang
+menambah struktur dasar
